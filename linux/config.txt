@@ -1,0 +1,5 @@
+LINUXGIT=git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+TYPECHEF=../../TypeChef/typechef.sh
+KCONFIGREADER=../kconfigreader/run.sh
+KCONFIGREADER_DUMPCONFC=../kconfigreader/dumpconf/dumpconf.c
+KBUILDMINER=../KBuildMiner/run.sh
